@@ -19,3 +19,7 @@ h4{
 	border-left: solid 4px #bdc3c7;
 	padding-left: 8px;
 }
+
+.article{
+	word-spacing: 2px;
+}
